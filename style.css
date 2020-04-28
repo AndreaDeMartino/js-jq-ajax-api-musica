@@ -10,6 +10,7 @@ body {
     min-height: 100vh;
 }
 
+/* BEGIN CSS EDIT: Container and Selection */
 .container {
     width: 1070px;
     height: 100%;
@@ -17,16 +18,6 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-header {
-    width: 100%;
-    height: 70px;
-    background: rgb(46, 58, 70);
-}
-header img {
-    height: 50px;
-    margin-top: 10px;
 }
 
 #selection{
@@ -43,6 +34,17 @@ header img {
 
 #selection:hover{
     box-shadow: 0 0 8px rgba(255, 255, 255, 0.8);
+}
+/* END CSS EDIT: Container and Selection */
+
+header {
+    width: 100%;
+    height: 70px;
+    background: rgb(46, 58, 70);
+}
+header img {
+    height: 50px;
+    margin-top: 10px;
 }
 
 .cds-container {

@@ -12,6 +12,7 @@
         <header>
             <div class="container">
                 <img src="logo.png" alt="logo" />
+                <!-- BEGIN HTML EDIT 1: Selection -->
                 <select id="selection">
                     <option disabled selected value> Genre </option>
                     <option value="Pop">Pop</option>
@@ -19,6 +20,7 @@
                     <option value="Metal">Metal</option>
                     <option value="Jazz">Jazz</option>
                 </select>
+                <!-- END HTML EDIT 1: Selection -->
             </div>
             
         </header>
@@ -27,7 +29,7 @@
         </div>
 
 
-         <!-- HANDLEBARS TEMPLATE -->
+         <!-- BEGIN HTML EDIT 2: HANDLEBARS TEMPLATE -->
         <script id="cd-template" type="text/x-handlebars-template">
             <div class="cd">
                 <img src="{{ poster }}" alt="">
@@ -36,6 +38,7 @@
                 <span class="year"> {{ year }} </span>
             </div>
         </script>
+        <!-- END HTML EDIT 2: HANDLEBARS TEMPLATE -->
 
 
         <script src="main.js" charset="utf-8"></script>
