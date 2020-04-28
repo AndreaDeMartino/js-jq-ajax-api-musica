@@ -32,9 +32,8 @@ $(document).ready(function() {
 						})
 			
 						var html = template(cd);
-						cdContainer.append(html).hide().fadeIn(200);
+						cdContainer.append(html).hide().fadeIn(1000);
 					}
-					
 				}
 			},
 			error: function(){
