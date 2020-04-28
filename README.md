@@ -1,4 +1,4 @@
-# Ex: Find SONG info with API ## 
+# 	Find SONG info with API ## 
 
 > 
 >
@@ -26,7 +26,9 @@ ___Bonus___: Creare una select con i seguenti generi: pop, rock, metal e jazz. I
 
 ![](img/screen.png)
 
-*Visit My Github Profile for more* __Projects __:man_technologist:
+
+
+*Visit My Github Profile for more* __Projects__:man_technologist:
 
 > https://github.com/AndreaDeMartino
 
