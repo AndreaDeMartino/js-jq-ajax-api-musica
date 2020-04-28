@@ -8,11 +8,11 @@
 
 ### :man_teacher: *BOOL TASK* 
 
-Attraverso una chiamata ajax all’Api di boolean avremo a disposizione una decina di dischi musicali. 
+*Attraverso una chiamata ajax all’Api di boolean avremo a disposizione una decina di dischi musicali.*
 
-Servendoci di handlebars stampiamo tutto a schermo.In questo momento non è importante la parte grafica.
+*Servendoci di handlebars stampiamo tutto a schermo.In questo momento non è importante la parte grafica.*
 
-___Bonus___: Creare una select con i seguenti generi: pop, rock, metal e jazz. In base a cosa scegliamo nella select vedremo i corrispondenti cd.*
+*___Bonus___: Creare una select con i seguenti generi: pop, rock, metal e jazz. In base a cosa scegliamo nella select vedremo i corrispondenti cd.*
 
 #### :computer: Languages:
 
